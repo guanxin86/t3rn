@@ -1,4 +1,4 @@
-# tern
+# t3rn
 ## 官方教程
 [https://docs.t3rn.io/executor/become-an-executor/binary-setup]
 ## 参数设定
