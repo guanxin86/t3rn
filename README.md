@@ -16,3 +16,8 @@ export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,l1rn'
 cd /root/executor/executor/bin/
 ./executor
 ```
+## 设置base链RPC
+```
+export RPC_ENDPOINTS_BSSP=https://base-sepolia-rpc.publicnode.com
+```
+
