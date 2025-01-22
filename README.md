@@ -30,7 +30,7 @@ rm -rf ~/executor
 wget -O executor.tar.gz
 ```
 ```
-tar -zxvf executor.tar.zg
+tar -zxvf executor.tar.gz
 cd ~/executor/executor/bin
 ./executor
 ```
