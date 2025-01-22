@@ -20,4 +20,17 @@ cd /root/executor/executor/bin/
 ```
 export RPC_ENDPOINTS_BSSP=https://base-sepolia-rpc.publicnode.com
 ```
-
+## 删除旧版本
+```
+cd $h
+rm -rf ~/executor
+```
+## 安装新版本
+```
+wget -O executor.tar.gz
+```
+```
+tar -zxvf executor.tar.zg
+cd ~/executor/executor/bin
+./executor
+```
