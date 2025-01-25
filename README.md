@@ -34,3 +34,5 @@ tar -zxvf executor.tar.gz
 cd ~/executor/executor/bin
 ./executor
 ```
+## releases文件
+[releases](https://github.com/t3rn/executor-release/releases/)
