@@ -36,3 +36,10 @@ cd ~/executor/executor/bin
 ```
 ## releases文件
 [releases](https://github.com/t3rn/executor-release/releases/)
+## 设置RPC
+```
+export RPC_ENDPOINT_ARBT=''
+export RPC_ENDPOINT_BSSP=''
+export RPC_ENDPOINT_BLSS=''
+export RPC_ENDPOINT_OPSP=''
+```
