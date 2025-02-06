@@ -3,7 +3,7 @@
 [https://docs.t3rn.io/executor/become-an-executor/binary-setup]
 ## 参数设定
 ```
-export NODE_ENV=testnet
+export ENVIRONMENT=testnet
 export LOG_LEVEL=debug
 export LOG_PRETTY=false
 export EXECUTOR_PROCESS_ORDERS=true
